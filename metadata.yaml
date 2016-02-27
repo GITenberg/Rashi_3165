@@ -1,0 +1,30 @@
+_repo: Rashi_3165
+contributor:
+  translator:
+    agent_name: Szold, Adele
+    gutenberg_agent_id: '1130'
+    url: http://www.gutenberg.org/2009/agents/1130
+creator:
+  author:
+    agent_name: Liber, Maurice
+    birthdate: 1884
+    deathdate: 1956
+    gutenberg_agent_id: '1129'
+    url: http://www.gutenberg.org/2009/agents/1129
+description: Translated from French
+gutenberg_bookshelf: Judaism
+gutenberg_issued: '2002-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3165'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rabbis -- France -- Troyes -- Biography'
+- !lcc 'BM'
+- !lcsh 'Rashi, 1040-1105'
+- !lcsh 'Jewish scholars -- France -- Troyes -- Biography'
+title: Rashi
+url: http://www.gutenberg.org/ebooks/3165
