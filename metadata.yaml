@@ -1,5 +1,5 @@
 _repo: Rashi_3165
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Szold, Adele
@@ -32,5 +32,6 @@ subjects:
 - !lcc 'BM'
 - !lcsh 'Rashi, 1040-1105'
 - !lcsh 'Jewish scholars -- France -- Troyes -- Biography'
+- GITenberg
 title: Rashi
 url: http://www.gutenberg.org/ebooks/3165
